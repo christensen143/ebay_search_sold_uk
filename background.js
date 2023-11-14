@@ -1,6 +1,6 @@
 chrome.contextMenus.create({
   id: '1',
-  title: 'Search Ebay sold listings for "%s"',
+  title: 'Search Ebay UK sold listings for "%s"',
   contexts: ['selection'],
 });
 
